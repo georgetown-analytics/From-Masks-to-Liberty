@@ -1,3 +1,6 @@
+
+<img src="https://i.insider.com/5f88b0ce9e9fe400190099ee?width=1000&format=jpeg&auto=webp"> 
+
 # From-Masks-to-Liberty
 Cohort 23 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
 
